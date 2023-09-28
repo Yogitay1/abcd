@@ -1,0 +1,11 @@
+.c2{
+    width: 100px;
+    border:1px solid green;
+    background-color: aquamarine;
+    align-items: center;
+    color: red;
+    margin: 0 10px;
+    display: flex;
+    justify-content: center;
+    height: 100px;
+}
